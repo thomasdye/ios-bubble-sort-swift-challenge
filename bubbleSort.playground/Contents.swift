@@ -10,7 +10,7 @@ func bubbleSort(){
 //var arr3 = [6, 5, 4, 3, 2, 1]
 //bubbleSort(&arr1) // returns [1, 2, 3, 4, 5, 6]
 //bubbleSort(&arr1, by: >) // returns [6, 5, 4, 3, 2, 1]
-//bubbleSort(&arr3) // returns [6, 5, 4, 3, 2, 1]
+//bubbleSort(&arr3) // returns [1, 2, 3, 4, 5, 6]
 
 
 // Test Cases (Stretch Goal)
